@@ -1,0 +1,13 @@
+.code-text {
+    background: lightgoldenrodyellow;
+    border: 1px solid darkgoldenrod;
+}
+
+.code-text:focus {
+    border: 1px solid darkgoldenrod;
+    outline: none;
+}
+
+.test-code {
+    background: lightgoldenrodyellow;
+}
